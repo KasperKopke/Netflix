@@ -1,0 +1,334 @@
+[
+  {
+    "id": 31,
+    "title": "Superbad",
+    "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "image": "https://res.cloudinary.com/jerrick/image/upload/v1610578424/5fff79f883f7a1001c77abaa.jpg",
+    "category": "Komedie",
+    "time": "1 t. 53 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Superbad_Logo.png"
+  },
+  {
+    "id": 32,
+    "title": "Anchorman: The Legend of Ron Burgundy",
+    "description": "Ron Burgundy is San Diego's top-rated newsman in the male-dominated broadcasting of the 1970s, but that's all about to change for Ron and his cronies when an ambitious woman is hired as a new anchor.",
+    "image": "https://lh3.googleusercontent.com/ZQT-7J-KjIvWhJpy6KZQlXC8n5TnsCOiVRZhgkBdZHcC28Pe6PEc2-RCCUiqNN9s6VT8inRlJcY=w1280-h720",
+    "category": "Komedie",
+    "time": "1 t. 34 min.",
+    "age": "15+",
+    "logo": "https://picfiles.alphacoders.com/723/72393.png"
+  },
+  {
+    "id": 33,
+    "title": "Dumb and Dumber",
+    "description": "After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out on a hilarious cross-country road trip to Aspen to return it.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTcO2IDuAnlcr22mwBLiQOZut5mTBB-SFSg&usqp=CAU",
+    "category": "Komedie",
+    "time": "1 t. 47 min.",
+    "age": "7+",
+    "logo": "https://www.pngmart.com/files/22/Dumb-And-Dumber-PNG-Isolated-HD.png"
+  },
+  {
+    "id": 34,
+    "title": "The Hangover",
+    "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+    "image": "https://ntvb.tmsimg.com/assets/p192248_v_h10_am.jpg?w=1280&h=720",
+    "category": "Komedie",
+    "time": "1 t. 40 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_hangover.svg/1280px-The_hangover.svg.png"
+  },
+  {
+    "id": 35,
+    "title": "Ferris Bueller's Day Off",
+    "description": "A high school wise guy is determined to have a day off from school, despite what the principal thinks of that.",
+    "image": "https://assets.xfinity.com/assets/dotcom/learn/Images/Hub/Articles/Ferris_Bueller.jpg",
+    "category": "Komedie",
+    "time": "1 t. 43 min.",
+    "age": "7+",
+    "logo": "https://www.pngmart.com/files/22/Ferris-Buellers-Day-Off-PNG.png"
+  },
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/d56b2942bc24e60043c79b061040c63d43ba529f0db1feff055e3b7a4dcc28ce.jpg",
+    "category": "Drama",
+    "time": "2 t. 22 min.",
+    "age": "15+",
+    "logo": "https://www.themoviedb.org/t/p/original/x7nYR0Ep7RwxxCoHidpovmF3qI0.svg"
+  },
+  {
+    "id": 6,
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "image": "https://ntvb.tmsimg.com/assets/p6326_v_h8_be.jpg?w=960&h=540",
+    "category": "Crime",
+    "time": "2 t. 55 min.",
+    "age": "15+",
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/the-godfather-logo-png-transparent.png"
+  },
+  {
+    "id": 11,
+    "title": "The Dark Knight",
+    "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "image": "https://www.murphysmultiverse.com/wp-content/uploads/2022/02/knight.jpg",
+    "category": "Action",
+    "time": "2 t. 55 min.",
+    "age": "15+",
+    "logo": "https://www.pngmart.com/files/22/The-Dark-Knight-PNG-Photos.png"
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "image": "https://i-viaplay-com.akamaized.net/viaplay-prod/771/672/1473257890-8d137221da8f1118f18ceb54a59bc246f964052a.jpg?width=960&height=540",
+    "category": "Crime",
+    "time": "2 t. 34 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pulp_Fiction_Logo.svg/1280px-Pulp_Fiction_Logo.svg.png"
+  },
+  {
+    "id": 2,
+    "title": "Schindler's List",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "image": "https://www.silverscreen.tours/wp-content/uploads/2021/02/schindlers-list-banner-01.jpg",
+    "category": "Drama",
+    "time": "3 t. 15 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Schindlers_List_logo.png"
+  },
+  {
+    "id": 3,
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+    "image": "https://ntvb.tmsimg.com/assets/p15829_v_h8_aw.jpg?w=1280&h=720",
+    "category": "Drama",
+    "time": "2 t. 22 min.",
+    "age": "7+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Forrestgump-logo.svg/1200px-Forrestgump-logo.svg.png"
+  },
+  {
+    "id": 12,
+    "title": "Die Hard",
+    "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/04BAD3F4E484EDCD367F5CAE187865B9E7092FE2475D76A418655AF3FCE23CEF/scale?width=1200&aspectRatio=1.78&format=jpeg",
+    "category": "Action",
+    "time": "2 t. 12 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Die_Hard_film_logo.png"
+  },
+  {
+    "id": 8,
+    "title": "Goodfellas",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjllYzEzZDUtMmUxMi00MjEwLWFiYTQtNTg5OWY1MTlhYjI0XkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+    "category": "Crime",
+    "time": "2 t. 26 min.",
+    "age": "15+",
+    "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3177d583-bb50-4d9e-8aef-0ff58f4fa888/dfetq75-27b2b3d2-7c2a-47de-a653-2e04d6ab6cd9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMxNzdkNTgzLWJiNTAtNGQ5ZS04YWVmLTBmZjU4ZjRmYTg4OFwvZGZldHE3NS0yN2IyYjNkMi03YzJhLTQ3ZGUtYTY1My0yZTA0ZDZhYjZjZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.h7XhdhJc1uewXMk_vByL_tcslzoAwiAmNLIMGMxFDS8"
+  },
+  {
+    "id": 15,
+    "title": "Gladiator",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "image": "https://point-geek.fr/wp-content/uploads/2018/11/Gladiator-for-desktop-background.jpg",
+    "category": "Action",
+    "time": "2 t. 35 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gladiator_logo.svg/2560px-Gladiator_logo.svg.png"
+  },
+  {
+    "id": 4,
+    "title": "The Green Mile",
+    "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "image": "https://i-viaplay-com.akamaized.net/viaplay-prod/956/932/1460155778-1f7113b995c1ff3f97aea19638d6334165493c83.jpg?width=960&height=540",
+    "category": "Drama",
+    "time": "3 t. 9 min.",
+    "age": "15+",
+    "logo": "https://picfiles.alphacoders.com/634/63426.png"
+  },
+  {
+    "id": 9,
+    "title": "The Departed",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "image": "https://i.ytimg.com/vi/GGZOjY8qg-A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAS8R83HAv-JOhz1FxkLj3zglEZ9g",
+    "category": "Crime",
+    "time": "2 t. 31 min.",
+    "age": "15+",
+    "logo": "https://picfiles.alphacoders.com/135/135096.png"
+  },
+  {
+    "id": 5,
+    "title": "Heat",
+    "description": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+    "image": "https://flxt.tmsimg.com/assets/p17455_v_h8_bd.jpg",
+    "category": "Crime",
+    "time": "2 t. 50 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Heat_%281995%29_logo.png"
+  },
+  {
+    "id": 10,
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "image": "https://biblioklept.files.wordpress.com/2015/05/mad-max-fury-road-poster-art-collection-from-poster-posse.jpg",
+    "category": "Action",
+    "time": "2 t. 0 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mad_Max_Fury_Road_logo.png"
+  },
+  {
+    "id": 13,
+    "title": "Kill Bill: Vol. 1",
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnTbNMoMkr9WiIcAlCQcBQA-WKvgO5xy8kQ&usqp=CAU",
+    "category": "Action",
+    "time": "1 t. 51min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kill_Bill_%28logo%29.png"
+  },
+  {
+    "id": 16,
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "image": "https://occ-0-2794-778.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdo5havGZN1pB4N8-A4UpLqJSNzQT1apPofuC864w7iI_UCr3h_Iy2zjntwCU2C-y1NG3J2eeVXeIq2rxDyj-nLBZk2Q9F9y0yDT.jpg?r=24b",
+    "category": "Fantasy",
+    "time": "3 t. 21 min.",
+    "age": "11+",
+    "logo": "https://assets.stickpng.com/images/609913583ae4510004af4a27.png"
+  },
+  {
+    "id": 14,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/b9f4dd7d3f9fa2cb36c757c7aecb690e8fc416e4165eb2d68d5fbdb837a19541.jpg",
+    "category": "Fantasy",
+    "time": "2 t. 58 min.",
+    "age": "11+",
+    "logo": "https://assets.stickpng.com/images/609913203ae4510004af4a25.png"
+  },
+  {
+    "id": 17,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family, and the terrible evil that haunts the magical world.",
+    "image": "https://i.ytimg.com/vi/kiIoydThaWo/maxresdefault.jpg",
+    "category": "Fantasy",
+    "time": "2 t. 32 min.",
+    "age": "7+",
+    "logo": "https://www.themoviedb.org/t/p/original/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png"
+  },
+  {
+    "id": 18,
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+    "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BC472A232D801D8230AAD8EED34AF6F6BFA30B4913DD016C7A618F4FA1966725/scale?width=1200&aspectRatio=1.78&format=jpeg",
+    "category": "Fantasy",
+    "time": "2 t. 23 min.",
+    "age": "11+",
+    "logo": "https://www.themoviedb.org/t/p/original/4F2MzH4TGceQw97YR2JP5BFlhja.png"
+  },
+  {
+    "id": 19,
+    "title": "Stardust",
+    "description": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8mHEVHo3MLRhjR83lPakfrrb43zjvlZKdddfPsnQtVjj2n1eS787HW8j6fUYzgMLMhww&usqp=CAU",
+    "category": "Fantasy",
+    "time": "2 t. 7 min.",
+    "age": "11+",
+    "logo": "https://www.movielocationhunter.co.uk/images/logos/movie/stardust-2007.webp"
+  },
+  {
+    "id": 20,
+    "title": "The Empire Strikes Back",
+    "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+    "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B92552B7CE9B7BB39BB3BDC551F35DB98C04740118F5B30975134814DF7A4E62/scale?width=1200&aspectRatio=1.78&format=jpeg",
+    "category": "Sci-Fi",
+    "time": "2 t. 4 min.",
+    "age": "7+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Theempirestrikesback-logo.svg/800px-Theempirestrikesback-logo.svg.png"
+  },
+  {
+    "id": 21,
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "image": "https://i-viaplay-com.akamaized.net/viaplay-prod/934/564/1460158962-aa63ce74b4e89191114a33118191a291a731cf4f.jpg?width=960&height=540",
+    "category": "Sci-Fi",
+    "time": "2 t. 28 min.",
+    "age": "11+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Inception-wordmark.svg/1280px-Inception-wordmark.svg.png"
+  },
+  {
+    "id": 22,
+    "title": "The Matrix",
+    "description": "A computer programmer discovers that reality as he knows it is a simulation created by machines to subjugate humanity, and he joins a group of rebels to break free.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdMUUjc0dyhOOLHot9bl50z456twK7PM5nAg&usqp=CAU",
+    "category": "Sci-Fi",
+    "time": "2 t. 16 min.",
+    "age": "15+",
+    "logo": "https://www.themoviedb.org/t/p/original/jCRAnQxCRLEIgrZnMWnMmDW9tH9.png"
+  },
+
+  {
+    "id": 24,
+    "title": "Avatar",
+    "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "image": "https://digitalt.tv/wp-content/uploads/2023/03/Avatar-The-Way-of-Water.jpg",
+    "category": "Sci-Fi",
+    "time": "2 t. 42 min.",
+    "age": "11+",
+    "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/df54agf-38d3f3a2-b7f8-4c02-b0e3-55fcc469c68c.png/v1/fill/w_1280,h_444/avatar__the_way_of_water__2022__logo_png__by_mintmovi3_df54agf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDQ0IiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kZjU0YWdmLTM4ZDNmM2EyLWI3ZjgtNGMwMi1iMGUzLTU1ZmNjNDY5YzY4Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.PzT_FtF9Py0O2HIdatRgUPo7DxNorJUeeixf90MoruA"
+  },
+  {
+    "id": 25,
+    "title": "The Terminator",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+    "image": "https://flxt.tmsimg.com/assets/p7764_v_h8_am.jpg",
+    "category": "Sci-Fi",
+    "time": "1 t. 47 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Terminator_%28franchise_logo%29.svg/2560px-Terminator_%28franchise_logo%29.svg.png"
+  },
+  {
+    "id": 26,
+    "title": "The Silence of the Lambs",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "image": "https://img3.hulu.com/user/v3/artwork/98db6119-0854-46cc-a338-b8d9f8a48a48?base_image_bucket_name=image_manager&base_image=d011abec-e906-463b-b4f9-22b13c0afa4b&region=US&format=jpeg&size=952x536",
+    "category": "Thriller",
+    "time": "1 t. 58 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/The_Silence_of_the_Lambs.png"
+  },
+  {
+    "id": 27,
+    "title": "Seven",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "image": "https://flxt.tmsimg.com/assets/p17198_v_h8_ay.jpg",
+    "category": "Thriller",
+    "time": "2 t. 7 min.",
+    "age": "15+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Seven_logo.png"
+  },
+  {
+    "id": 28,
+    "title": "The Usual Suspects",
+    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "image": "https://img1.hulu.com/user/v3/artwork/a5063a74-550c-41e5-94da-9b27ce6a85cd?base_image_bucket_name=image_manager&base_image=6611772a-6071-44f2-9ab5-78cb78d6de00&size=1200x630&format=jpeg",
+    "category": "Thriller",
+    "time": "1 t. 46 min.",
+    "age": "15+",
+    "logo": "https://officialpsds.com/imageview/r3/64/r36440_large.png?1521316519"
+  },
+
+  {
+    "id": 30,
+    "title": "Prisoners",
+    "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "image": "https://super142.files.wordpress.com/2021/04/prisoners-2013.jpg?w=1200",
+    "category": "Thriller",
+    "time": "2 t. 33 min.",
+    "age": "15+",
+    "logo": "https://picfiles.alphacoders.com/117/117251.png"
+  }
+]

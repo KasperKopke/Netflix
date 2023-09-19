@@ -1,0 +1,370 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #181414;
+  overflow: auto;
+}
+nav {
+  background-color: #10100800;
+  height: 68px;
+  position: fixed;
+  background-image: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.7) 10%,
+    transparent
+  );
+  width: 100%;
+  transition: all 0.5s ease-in-out;
+  z-index: 998;
+}
+nav.scrolled {
+  transition: all 0.4s ease-in-out;
+  background-color: black;
+}
+nav ul {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 0 3.2%;
+
+  font-size: 14px;
+}
+nav ul li {
+  list-style-type: none;
+}
+nav ul li:nth-child(7) {
+  margin-right: auto;
+}
+.fa-bell {
+  font-size: 20px;
+}
+.fa-magnifying-glass {
+  font-size: 22px;
+}
+nav ul li:last-child img {
+  border-radius: 5px;
+}
+nav ul li:last-child {
+  display: flex;
+  gap: 10px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+nav ul li:first-child img {
+  width: 114px;
+  margin-right: 10px;
+}
+.fa-sort-down {
+  color: white;
+  margin-top: 7px;
+}
+nav ul li a:focus {
+  font-weight: 600;
+}
+.current {
+  font-weight: 600;
+}
+.recommended-header {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.header-img img {
+  width: 100%;
+  height: 121%;
+  position: absolute;
+  top: 0;
+}
+header {
+  margin-bottom: 150px;
+}
+.movie-header-info {
+  position: absolute;
+  background: linear-gradient(77deg, rgba(0, 0, 0, 0.6), transparent 85%);
+  bottom: -150px;
+  left: 0;
+  top: 0;
+  padding: 3.7%;
+}
+.recommended-header h3 {
+  display: flex;
+  color: white;
+  gap: 10px;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 1.5vw;
+}
+.recommended-header p {
+  color: white;
+  max-width: 39%;
+  font-size: 1.3vw;
+  margin-top: 18px;
+}
+
+.recommended-header h3 img {
+  width: 2.6vw;
+}
+.textImg {
+  width: 36vw;
+  margin-top: 54px;
+}
+.movie-info-btns {
+  display: flex;
+  gap: 15px;
+  margin-top: 15px;
+}
+.play {
+  padding: 15px 32px;
+  background-color: white;
+  color: black;
+  border-radius: 7px;
+  font-size: 18px;
+  display: flex;
+  gap: 10px;
+}
+.info {
+  padding: 14px 40px;
+  background-color: rgba(75, 75, 75, 0.712);
+  color: white;
+  border-radius: 7px;
+  font-size: 20px;
+}
+.movies {
+  z-index: 100;
+  margin-top: -111px;
+  position: sticky;
+  padding: 0px 3.2%;
+}
+.movie-container img {
+  border-radius: 3px 3px 3px 3px;
+}
+.movie-container img {
+  cursor: pointer;
+}
+.film {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 45px;
+}
+.movies h2 {
+  color: white;
+  margin-bottom: 15px;
+}
+.film img {
+  max-width: 234px;
+  max-height: 140px;
+  min-width: 234px;
+  min-height: 140px;
+}
+.movie-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: all 0.4s ease-in-out;
+  z-index: 1;
+  position: relative;
+}
+
+.movie-container:hover {
+  transform: scale(1.4);
+  z-index: 4;
+}
+
+/* Toggle visibility and opacity on hover */
+.movie-container:hover .movie-hover-content {
+  visibility: visible;
+  opacity: 1;
+  border-radius: 0px 0px 3px 3px;
+}
+
+.movie-container:hover img {
+  border-radius: 3px 3px 0px 0px;
+}
+
+.movie-hover-content {
+  flex-direction: column;
+  background-color: #201c1c;
+  width: 100%;
+  padding: 5%;
+  z-index: 1;
+  position: absolute;
+  bottom: -102px;
+  opacity: 0;
+  transition: opacity 0.2s ease, bottom 1s ease;
+  visibility: hidden; /* Initially hidden */
+}
+
+.movie-top ul {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+.movie-top ul li:nth-child(3) {
+  margin-right: auto;
+}
+.movie-top ul li {
+  list-style-type: none;
+}
+.movie-middle {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: white;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.age {
+  border: 1px solid white;
+  padding: 1%;
+}
+.hd {
+  font-size: 9px;
+  border: 1px solid white;
+  padding: 1%;
+}
+.movie-bottom {
+  font-size: 12px;
+  color: white;
+}
+
+.movie-hover-content i {
+  font-size: 26px;
+}
+
+.active {
+  display: none;
+}
+
+.modal {
+  background-color: rgba(0, 0, 0, 0.62);
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+  overflow-y: scroll;
+}
+.modal.active {
+  display: flex;
+}
+.modal-box {
+  width: 850px;
+
+  height: 970px;
+  margin-top: 325px;
+  border-radius: 6px;
+  background-color: #181818;
+  min-width: 850px;
+}
+.imgtag {
+  position: relative;
+}
+.modal-box img {
+  width: 100%;
+  border-radius: 6px 6px 0px 0px;
+}
+.overlay-shadow {
+  background: linear-gradient(0deg, #181818, transparent 50%);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  padding: 5%;
+}
+.overlay-shadow-content {
+  position: absolute;
+  bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+.overlay-shadow-content img {
+  width: 47%;
+  margin-bottom: 40px;
+}
+.modal-btns ul {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  font-size: 35px;
+  align-items: center;
+}
+.modal-btns ul li:last-child {
+  margin-left: auto;
+  color: white;
+  cursor: pointer;
+}
+.ex {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  font-size: 40px;
+  cursor: pointer;
+  z-index: 999;
+  color: rgb(158, 157, 157);
+}
+.movie-middle2 {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: rgb(200, 200, 200);
+
+  margin-bottom: 10px;
+  font-size: 20px;
+  padding: 1% 5%;
+}
+.age2 {
+  border: 1px solid rgb(170, 170, 170);
+  padding: 0.4%;
+  font-size: 15px;
+}
+.hd2 {
+  font-size: 9px;
+  border: 1px solid rgb(170, 170, 170);
+  padding: 0.3%;
+}
+.description {
+  padding: 0% 5%;
+  color: white;
+  max-width: 60%;
+}
+.omfilmen {
+  padding: 5%;
+}
+.omfilmen ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 15px;
+}
+.omfilmen ul li {
+  display: flex;
+  align-items: center;
+}
+.omfilmen h3 {
+  color: #777;
+  font-size: 14px;
+}
+.omfilmen p {
+  font-size: 14px;
+  color: white;
+  margin-left: 2px;
+}
+.omfilmen h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+}
